@@ -23,7 +23,7 @@
     overflow: hidden;
     background:crimson;
     color: #fff;
-    transition: max-height 0.7s;
+    transition: max-height, background, 0.7s;
 }
 
 .main.open {
